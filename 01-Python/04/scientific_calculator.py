@@ -1,6 +1,9 @@
+from basic_calculator import BasicCalculator
+
+
 import math
 
-class ScientificCalculator():
+class ScientificCalculator(BasicCalculator):
     def __init__(self, first_num, second_num):
         self.num_1 = first_num
         self.num_2 = second_num

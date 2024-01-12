@@ -1,8 +1,6 @@
-from basic_calculator import BasicCalculator
 from scientific_calculator import ScientificCalculator
 
+calc = ScientificCalculator(10, 5)
 
-object_basic_calculator = BasicCalculator(15, 5)
-print(object_basic_calculator.add())
-
-
+print('add from BasicCalculator: ', calc.add())
+print('power from Scientific Calculator: ', calc.power())
