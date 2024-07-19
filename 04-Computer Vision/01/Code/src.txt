@@ -1,0 +1,4 @@
+https://github.com/bnsreenu/python_for_microscopists/blob/4b8c0bd4274bc4d5e906a4952988c7f3e8db74c5/297-simple_unet_model.py#L17
+
+
+https://github.com/bnsreenu/python_for_microscopists/blob/4b8c0bd4274bc4d5e906a4952988c7f3e8db74c5/204_train_simple_unet_for_mitochondria.py
